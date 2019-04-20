@@ -1,5 +1,3 @@
-###### Git Tutorial
-
 ###### Глобальные настройки
 * git config --global user.name "Michael"
 * git config --global user.email michael@example.com
