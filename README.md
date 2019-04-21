@@ -17,6 +17,6 @@
 * git add . - добавляет все файлы на отправку
 * git commit -m " " - комментарий к внесенным изменениям 
 * git remote add origin https://github.com/Go/to.git - ссылка на репозиторий
-* git push --force origin master - загрузка 
+* git push -u origin master - загрузка 
 * git clone - скачать репозиторий
 * git pull - обноаить репозиторий
