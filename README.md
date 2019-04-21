@@ -1,5 +1,5 @@
-# Git основные команды
-
+![ ](https://www.imedia.by/upload/iblock/a3b/git.png)
+# Основные команды 
 #### Глобальные настройки
 * git config --global user.name "Michael"
 * git config --global user.email michael@example.com
@@ -20,3 +20,4 @@
 * git push -u origin master - загрузка 
 * git clone - скачать репозиторий
 * git pull - обноаить репозиторий
+* git status - статус файлов
