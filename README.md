@@ -1,4 +1,4 @@
-# Git Tutorial
+# Git основные команды
 
 #### Глобальные настройки
 * git config --global user.name "Michael"
