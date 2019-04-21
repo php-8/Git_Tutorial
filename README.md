@@ -1,9 +1,11 @@
-###### Глобальные настройки
+# Git Tutorial
+
+#### Глобальные настройки
 * git config --global user.name "Michael"
 * git config --global user.email michael@example.com
 * git config --list - проверка настроек
 
-###### Ветки
+#### Ветки
 * git branch - все ветки
 * git checkout -b Michael - создать и переключиться на ветку
 * git checkout Michael - переключиться на ветку
