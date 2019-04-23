@@ -9,7 +9,10 @@ class test {
     public function GetData($something) {
         return $something;
     }
-    
+    public function SetData($setter) {
+    return $setter;
+}
+
 }
 
 
