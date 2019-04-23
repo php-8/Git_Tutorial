@@ -1,12 +1,12 @@
 <?php 
 
-class test {
+class Git {
 
     public function __construct() {
-        echo 'Test';
+        echo 'Git';
     }
 
-    public function GetData($something) {
+    public function Data($something) {
         return $something;
     }
     
