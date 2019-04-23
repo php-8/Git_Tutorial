@@ -4,6 +4,7 @@ class NewClass {
 
 public $some;
 public $thing;
+public $new;
 
 public function __construct($some, $thing) {
 
