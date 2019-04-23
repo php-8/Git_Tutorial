@@ -18,6 +18,10 @@ return 'Something';
 
 }
 
+public function Gituploading () {
+    return true;
+}
+
 }
 
 ?>
