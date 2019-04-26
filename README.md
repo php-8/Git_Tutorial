@@ -16,7 +16,7 @@
 * git init - инициализация папки как git репозиторий
 * git add . - добавляет все файлы на отправку
 * git commit -m " " - комментарий к внесенным изменениям 
-* git remote add origin https://github.com/Go/to.git - ссылка на репозиторий
+* git remote add origin https://github.com/php-8/Git_Tutorial.git - ссылка на репозиторий
 * git push -u origin master - загрузка 
 * git clone - скачать репозиторий
 * git pull - обноаить репозиторий
